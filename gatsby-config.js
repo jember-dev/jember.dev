@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Tailwind`,
-    description: `Gatsby starter styled with Tailwind`,
-    author: `@taylorbryant`
+    title: `JemberDev`,
+    description: `JemberDev merupakan sebuah komunitas yang menjadi wadah bagi semua penggiat IT untuk menuangkan ide-ide kreatif guna menghasilkan teknologi yang dapat bermanfaat bagi masyarakat Indonesia khususnya daerah Jember ( :`,
+    author: `https://github.com/jember-dev`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -15,7 +15,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#4dc0b5`,
         display: `minimal-ui`,
-        icon: `src/images/tailwind-icon.png`
+        icon: `src/images/jember.dev-icon.jpg`
       }
     },
     `gatsby-plugin-postcss`,
